@@ -22,6 +22,7 @@ No matter where you are, when in need, SOZO can also call for help for your near
 
 ## Features
 
+SOZO mainly focuses on :
 - The people will be the first responders.
 - The Auothorities and locals are the first one to save lifes .
 - Access the location and save people.
@@ -29,7 +30,6 @@ No matter where you are, when in need, SOZO can also call for help for your near
  
 
 
-SOZO mainly focuses on 
 ## Tech
 
 SOZO uses Googgle Tecnologies :
@@ -46,7 +46,7 @@ Be it any kind of help that is needed by the person, a medical emergency, an acc
 We felt like so many crimes and emergencies can be resolved easily if only the person could ask for help and with this application, they finally have a voice. 
 You can even help a person near you with the help of this application which alerts all the users and authorities near the person in need for the kind of help needed and volunteers can accept the request for help hence achieving partnership for the goals.
 
-##Challenge 
+## Challenge 
 
 Our vision is to connect the people stuck in any sort of difficult situations with those who are ready to extend their help. The app serves to bridge and connect the needy with a volunteer in a most efficient way and on a real time basis.
 
