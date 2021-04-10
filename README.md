@@ -14,7 +14,6 @@ No matter where you are, when in need, SOZO can also call for help for your near
 
 - Life - Saving procedures digitized .
 - The Auothorities and locals are the first one to save lifes .
-- 
 
 
 > A BBC investigation revealed that
