@@ -59,7 +59,7 @@ SOZO mainly focuses on :
 
 ## Tech
 
-SOZO uses Googgle Tecnologies :
+SOZO uses Google Tecnologies :
 
 - [Flutter](https://flutter.dev/docs) - Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 - [Firebase](https://firebase.google.com/docs) -  Google's mobile platform that helps you quickly develop high-quality apps
