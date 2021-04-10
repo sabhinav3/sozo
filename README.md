@@ -1,7 +1,7 @@
 # SOZO
 ## __The Advanced SOS Application
 
-<!--[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)--!>
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 SOZO is an advanced SOS mobile application that simplifies the process of calling for help. With its efficient flow the app aids in saving more lives. 
 No matter where you are, when in need, SOZO can also call for help for your near & dear ones.  
