@@ -5,7 +5,7 @@
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Languages](https://img.shields.io/github/languages/count/sabhinav3/sozo)
-![sponcers](https://img.shields.io/github/sponsors/yash25198?style=social)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/s-abhinav/)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/yash25198)(https://github.com/nehadevarapalli)
 
 
