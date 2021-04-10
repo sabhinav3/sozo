@@ -52,7 +52,7 @@ A walkthrough of this project is available :[here](https://youtu.be/LTRf5_ohiBI)
 SOZO mainly focuses on :
 - The people will be the first responders.
 - The Auothorities and locals are the first one to save lifes .
-- Access the location and save people.
+- Access location and save people.
 - Many Articles to educate people about safety & health. 
 
 
