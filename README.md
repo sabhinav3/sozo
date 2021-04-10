@@ -1,26 +1,31 @@
 # SOZO
 ## __The Advanced SOS Application
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+<!--[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)--!>
 
 SOZO is an advanced SOS mobile application that simplifies the process of calling for help. With its efficient flow the app aids in saving more lives. 
 No matter where you are, when in need, SOZO can also call for help for your near & dear ones.  
 
 - Life - Saving procedures digitized .
 - The Auothorities and locals are the first one to save lifes .
+- 
 
 
 > A BBC investigation revealed that
 > seriously ill and injured patients wait for more than an hour  
 > to access an Ambulance and for any medical assistance. 
 
+## Motive
+- Our Team spotted an opportunity to create an app that simplifies the process for calling for help in any critical situations.
+- The shock from an accident might prevent the person from calling for help in a timely manner. In emergency situations, witnesses who were not hurt could make an SOS call and alert the locals and authorities.
+
+
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- The people will be the first responders.
+- The Auothorities and locals are the first one to save lifes .
+- Access the location and save people.
+- Many Articles to educate people about safety & health. 
  
 
 
