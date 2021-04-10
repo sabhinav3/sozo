@@ -6,7 +6,7 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Languages](https://img.shields.io/github/languages/count/sabhinav3/sozo)
 ![sponcers](https://img.shields.io/github/sponsors/yash25198?style=social)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/yash25198)
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/yash25198)(https://github.com/nehadevarapalli)
 
 
 SOZO is an advanced SOS mobile application that simplifies the process of calling for help. With its efficient flow the app aids in saving more lives. 
