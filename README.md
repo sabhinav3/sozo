@@ -6,7 +6,7 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Languages](https://img.shields.io/github/languages/count/sabhinav3/sozo)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/s-abhinav/)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://github.com/yash25198)(https://github.com/nehadevarapalli)
+[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fadityaketkar%2Fcircle-packing-personal-homepage)](https://twitter.com/SAbhinav_3)
 
 
 SOZO is an advanced SOS mobile application that simplifies the process of calling for help. With its efficient flow the app aids in saving more lives. 
@@ -33,6 +33,10 @@ SOZO mainly focuses on :
 - The Auothorities and locals are the first one to save lifes .
 - Access the location and save people.
 - Many Articles to educate people about safety & health. 
+
+
+[![SOZO working](http://img.youtube.com/vi/LTRf5_ohiBI/0.jpg)](http://www.youtube.com/watch?v=LTRf5_ohiBI "SOZO")
+
  
 
 
