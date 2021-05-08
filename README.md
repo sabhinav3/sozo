@@ -13,7 +13,7 @@ SOZO is an advanced SOS mobile application that simplifies the process of callin
 No matter where you are, when in need, SOZO can also call for help for your near & dear ones.  
 
 - Life - Saving procedures digitized .
-- The Auothorities and locals are the first one to save lifes .
+- The Authorities and locals are the first one to save lives .
 
 
 > A BBC investigation revealed that
